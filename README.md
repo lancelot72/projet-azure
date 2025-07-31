@@ -19,6 +19,10 @@ L’infrastructure conçue repose sur les éléments suivants :
 - Une **connectivité hybride simulée via VPN Point-to-Site (P2S)** entre un client local et l’infrastructure cloud.  
 - L’**activation de Network Watcher** et des **journaux de flux NSG** pour superviser et analyser le trafic réseau.
 
+![Architecture](./images/0-architecture.png)
+
+> **Figure 0.1 – Architecture du réseau.**
+
 ---
 
 # 1. Mise en Place de la Structure Réseau Virtuelle
